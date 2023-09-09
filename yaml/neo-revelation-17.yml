@@ -1,0 +1,91 @@
+---
+id: neo3-17
+name: Entei
+supertype: Pokémon
+subtypes:
+- Basic
+level: '24'
+hp: '60'
+types:
+- Fire
+abilities:
+- name: Legendary Body
+  text: As long as Entei is your Active Pokémon, Entei and Energy cards attached to
+    it aren't affected by effects from Trainer cards other than Stadium cards. As
+    long as this Power is active, discard any Trainer cards attached to Entei. (This
+    power works even if Entei is Asleep, Confused, or Paralyzed.)
+  type: Pokémon Power
+attacks:
+- name: Mega Flame
+  cost:
+  - Fire
+  - Fire
+  - Fire
+  convertedEnergyCost: 3
+  damage: '50'
+  text: Flip 2 coins. For each tails, discard 1 Fire Energy card from Entei, if it
+    has any.
+weaknesses:
+- type: Water
+  value: "×2"
+set:
+  id: neo3
+  name: Neo Revelation
+  series: Neo
+  printedTotal: 64
+  total: 66
+  legalities:
+    unlimited: Legal
+  ptcgoCode: N3
+  releaseDate: 2001/09/21
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/neo3/symbol.png
+    logo: https://images.pokemontcg.io/neo3/logo.png
+number: '17'
+artist: Naoyo Kimura
+rarity: Rare
+flavorText: A Pokémon that races across the land. It is said that one is born every
+  time a new volcano appears.
+nationalPokedexNumbers:
+- 244
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/neo3/17.png
+  large: https://images.pokemontcg.io/neo3/17_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/neo3-17
+  updatedAt: 2023/09/09
+  prices:
+    1stEdition:
+      low: 12.99
+      mid: 27.5
+      high: 47.49
+      market: 29.91
+      directLow: 29.5
+    unlimited:
+      low: 4.0
+      mid: 10.6
+      high: 18.74
+      market: 12.22
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/neo3-17
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 7.46
+    lowPrice: 1.0
+    trendPrice: 6.62
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 11.26
+    lowPriceExPlus: 7.0
+    avg1: 4.99
+    avg7: 6.29
+    avg30: 8.6
+    reverseHoloAvg1: 28.99
+    reverseHoloAvg7: 8.78
+    reverseHoloAvg30: 6.83

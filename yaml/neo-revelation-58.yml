@@ -1,0 +1,91 @@
+---
+id: neo3-58
+name: Unown [K]
+supertype: Pokémon
+subtypes:
+- Basic
+level: '14'
+hp: '40'
+types:
+- Psychic
+rules:
+- You may have up to 4 Basic Pokémon cards in your deck with Unown in their names.
+abilities:
+- name: "[Keep]"
+  text: Your opponent's attacks, Pokémon Powers, and Trainer cards can't discard Energy
+    cards from your Pokémon with Unown in their names. (Any other effects still happen.)
+  type: Pokémon Power
+attacks:
+- name: Hidden Power
+  cost:
+  - Psychic
+  convertedEnergyCost: 1
+  damage: '10'
+  text: ''
+weaknesses:
+- type: Psychic
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: neo3
+  name: Neo Revelation
+  series: Neo
+  printedTotal: 64
+  total: 66
+  legalities:
+    unlimited: Legal
+  ptcgoCode: N3
+  releaseDate: 2001/09/21
+  updatedAt: 2020/08/14 09:35:00
+  images:
+    symbol: https://images.pokemontcg.io/neo3/symbol.png
+    logo: https://images.pokemontcg.io/neo3/logo.png
+number: '58'
+artist: CR CG gangs
+rarity: Common
+flavorText: Their shapes look like hieroglyphs on ancient tablets. It is said that
+  the two are somehow related.
+nationalPokedexNumbers:
+- 201
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/neo3/58.png
+  large: https://images.pokemontcg.io/neo3/58_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/neo3-58
+  updatedAt: 2023/09/09
+  prices:
+    1stEdition:
+      low: 0.64
+      mid: 1.0
+      high: 2.99
+      market: 0.96
+      directLow: 
+    unlimited:
+      low: 0.1
+      mid: 0.42
+      high: 4.0
+      market: 0.42
+      directLow: 0.3
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/neo3-58
+  updatedAt: 2023/09/09
+  prices:
+    averageSellPrice: 0.38
+    lowPrice: 0.02
+    trendPrice: 0.34
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 0.05
+    avg1: 0.5
+    avg7: 0.3
+    avg30: 0.41
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0
